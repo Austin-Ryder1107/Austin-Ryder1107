@@ -4,7 +4,7 @@
 
 
 ## <img height=30 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" /> About Me
-I am a senior full stack developer with 7+ years of rich, real world experience. I enjoy and understand the importance of both technical and creative aspects during the developmental process and strive to deliver perfect results in the quickest time possible, no matter the circumstances or job requirement.
+I am a senior full stack developer with rich, real world experience. I enjoy and understand the importance of both technical and creative aspects during the developmental process and strive to deliver perfect results in the quickest time possible, no matter the circumstances or job requirement.
 
 🤝  I'm open to collaborating on Full-Stack projects <br/>
 ⚡  I enjoy talking about technology with my friends <br/>
