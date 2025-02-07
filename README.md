@@ -80,6 +80,6 @@ I am a senior full stack developer with rich, real world experience. I enjoy and
 I'm constantly expanding my skillset to stay up-to-date with the latest industry trends and technologies.
 
 ## <img height=30 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" /> Contact
-You can reach me through [LinkedIn](https://www.linkedin.com/), [Email](mailto:your-email@example.com), or [Discord](https://discord.com/users/your-discord-username).
+You can reach me through [LinkedIn](https://www.linkedin.com/), [Email](mailto:jack.petrovic@outlook.com), or [Discord](https://discord.com/users/your-discord-username).
 
 
