@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# I am Austin Ryder
+# I am Magic Glove
 
 
 ## <img height=30 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" /> About Me
@@ -11,9 +11,9 @@ I am a senior full stack developer with rich, real world experience. I enjoy and
 
 ## <img height=30 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" /> GitHub Stats
 
-<a href="https://github.com/Austin-Ryder1107/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Austin-Ryder1107&show_icons=true&theme=merko&rank_icon=github" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Austin-Ryder1107&exclude_repo=github-readme-stats,Austin-Ryder1107.github.io&show_icons=true&theme=dracula&show_owner=true" />
+<a href="https://github.com/Magic-Glove/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Magic-Glove&show_icons=true&theme=merko&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magic-Glove&exclude_repo=github-readme-stats,Magic-Glove.github.io&show_icons=true&theme=dracula&show_owner=true" />
 </a>
 
 ## <img height=30 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" /> Languages and Tools
